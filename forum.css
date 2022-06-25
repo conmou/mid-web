@@ -1,0 +1,275 @@
+body {
+    background: #cccccc;
+    font-family: 'Nunito', "cwTeXYen" !important;
+}
+
+a:hover {
+    color: #6c757d !important
+}
+
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.title {
+    position: fixed;
+    max-width: 100%;
+    height: 0%;
+    top: 0%;
+    text-align: center;
+    padding: 0%;
+}
+
+#vertical {
+    width: 3px;
+    /*word-wrap: break-word;
+    white-space:pre-wrap;*/
+    color: #5f5d5d;
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 40px;
+    font-size: 30px;
+    font-weight: bold;
+    border-radius: 15px 0 0 15px;
+}
+
+#vertical:hover {
+    box-shadow: 0 2px 2px 0 #ccc, 0 2px 3px 0 #ccc;
+    opacity: 0.7;
+}
+
+#showforum {
+    border-radius: 15px !important;
+    box-shadow: 0 2px 2px 0 #ccc, 0 7px 6px 0 #ccc;
+}
+
+#showforum:hover {
+    background-color: rgb(226, 226, 226) !important;
+    cursor: pointer;
+}
+
+#showforum h3 {
+    color: #44546A;
+    font-weight: bold;
+}
+
+#search {
+    padding-left: 2%;
+    color: rgb(88, 88, 88);
+    background-color: #e8e8e8;
+    font-size: 20px;
+    width: 70%;
+    height: 35px;
+    border: none;
+    border: 2px solid #919191;
+}
+
+#search::placeholder {
+    color: rgb(154, 154, 154);
+}
+
+#titlesize {
+    resize: none;
+    width: 60%;
+    height: 100px;
+    font-size: 20px !important;
+}
+
+.dropdown {
+    color: #fff;
+    font-size: 20px;
+    border-radius: 3px;
+}
+
+.select {
+    background-color: #828181;
+    color: #fff;
+    font-size: 20px;
+    border-radius: 3px;
+
+}
+
+#titlefont {
+    font-size: 50px;
+    color: #44546A;
+    font-weight: bold;
+}
+
+#middleimg {
+    position: relative;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+#imgshow {
+    /*background-color: #A4978E;*/
+    /*background-color: #C1B29B; */
+    background-color: #708090;
+    color: #ffffff;
+    border: none;
+    border-radius: 1em 1em 1em 1em;
+}
+
+#imgshow:hover {
+    background-color: #708090;
+    opacity: 0.7;
+    cursor: pointer;
+}
+
+#priceview {
+    background-color: #D6DBDF;
+    color: rgb(63, 63, 63);
+    border: none;
+    border-radius: 0em 1em 1em 0em;
+}
+
+#msg {
+    position: fixed;
+    width: 86.8%;
+    bottom: 0;
+}
+
+#contentsize {
+    resize: none;
+    width: 60%;
+    height: 200px;
+    padding-right: 20rem;
+}
+
+#content-size span {
+    font-size: 20px;
+}
+
+#titletxt {
+    font-size: 1.75rem;
+    width: 40%;
+    border: none;
+    border-radius: 5px;
+    resize: none;
+}
+
+#contenttxt {
+    font-size: 20px;
+    width: 55%;
+    height: 200px;
+    border: none;
+    border-radius: 5px;
+    resize: none;
+}
+
+#update {
+    width: 10%;
+    height: 50px;
+    background: #6a7083;
+    color: #fff;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+#update:hover {
+    box-shadow: 0 2px 2px 0 #ccc, 0 2px 3px 0 #ccc;
+    opacity: 0.7;
+}
+
+#searchbtn {
+    border: none;
+    width: 10%;
+    background-color: transparent;
+}
+
+#small-size {
+    font-size: 25px;
+}
+
+#small-size small {
+    font-size: 16px !important;
+}
+
+#msg_bottom {
+    margin-bottom: 15%;
+}
+
+#postbtn {
+    /*border: solid 5px #7d7d7d;*/
+    background-color: #b9b9b9;
+    color: #353535;
+    font-size: 25px;
+    width: 10%;
+    height: 50px;
+    font-weight: bold;
+}
+
+#postbtn:hover {
+    box-shadow: 0 2px 2px 0 #ccc, 0 2px 3px 0 #ccc;
+    opacity: 0.7;
+}
+
+#editBtn {
+    background-color: none !important;
+}
+
+#typesize {
+    color: #676666;
+    background-color: #f3f3f3;
+    border: solid 5px #707174;
+    font-size: 25px !important;
+    border-radius: 5px;
+}
+
+#brand {
+    color: #ffffff;
+    font-weight: bold;
+    background-color: #943126;
+    border: #FEF5E7;
+    border-radius: 5px;
+}
+
+#showmsg:hover{
+    background-color: rgb(239, 239, 239);
+}
+
+@font-face {
+    font-family: 'cwTeXYen';
+    font-style: normal;
+    /* src: local("GenJyuuGothic-Bold.ttf"); */
+    /* src: url("/fonts/GenJyuuGothic-Bold.ttf"); */
+    src: url(https://justfont.com/huninn/);
+    src: url(//fonts.gstatic.com/ea/cwtexyen/v3/cwTeXYen-zhonly.eot);
+    src: url(//fonts.gstatic.com/ea/cwtexyen/v3/cwTeXYen-zhonly.eot?#iefix) format('embedded-opentype'),
+        url(//fonts.gstatic.com/ea/cwtexyen/v3/cwTeXYen-zhonly.woff2) format('woff2'),
+        url(//fonts.gstatic.com/ea/cwtexyen/v3/cwTeXYen-zhonly.woff) format('woff'),
+        url(//fonts.gstatic.com/ea/cwtexyen/v3/cwTeXYen-zhonly.ttf) format('truetype');
+}
+
+#alertBtn {
+    position: absolute;
+    right: 4%;
+    width: 50px;
+    font-size: 0.1px;
+}
+
+#msgalertBtn {
+    position: absolute;
+    right: 3%;
+    width: 50px;
+    font-size: 0.1px;
+}
+
+.rule{
+    color:#f3f3f3;
+    background-color: #7d8f99;
+    font-size: 25px;
+    width: 5%;
+    height: 50px;
+    border: none;
+}
+
+#star{
+    position: absolute;
+    right: 16%;
+}

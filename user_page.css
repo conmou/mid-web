@@ -1,0 +1,375 @@
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css");
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital@1&display=swap');
+
+a {
+   text-decoration: none !important
+}
+
+a:hover {
+   color: #6c757d ;
+}
+
+body {
+   font-size: 1.3vw !important;
+   font-family: 'Nunito', "cwTeXYen";
+   font-style: normal !important;
+   font-weight: 500 !important;
+}
+
+#radio {
+   display: none;
+}
+
+#radio input[type="radio"] {
+   display: none;
+}
+
+#radio input:checked+.button {
+   background: #5e7380;
+   color: #fff;
+   cursor: pointer;
+}
+
+#radio .button {
+   display: inline-block;
+   margin: 0 5px 10px 0;
+   padding: 5px 10px;
+   background: #f7f7f7;
+   color: #333;
+   cursor: pointer;
+}
+
+#radio .button:hover {
+   background: #bbb;
+   color: #fff;
+}
+
+#radio .round {
+   border-radius: 5px;
+}
+
+#radio_result input[type="radio"] {
+   display: none;
+}
+
+#radio_result .button {
+   display: inline-block;
+   margin: 0 5px 10px 0;
+   padding: 5px 10px;
+   background: #f7f7f7;
+   color: #5e7380;
+   cursor: pointer;
+   border: 0.5px #bbb solid;
+}
+
+
+#radio_result .round {
+   border-radius: 5px;
+}
+
+.wrapper {
+   overflow: hidden;
+   height: auto;
+   padding: 5% 28% 0% 3%;
+}
+
+input {
+   border: 0;
+   font-size: 14px;
+   background-color: white;
+   color: black;
+   border-radius: 10px;
+   cursor: pointer;
+   /* border:2px #708090 solid; */
+}
+
+.id_search_bar {
+   font-size: 0.4em;
+}
+
+#more_option {
+   width: auto;
+   margin-bottom: 15px;
+   font-size: 1em;
+   background-color: white;
+   color: black;
+   border-radius: 10px;
+   display: flex;
+}
+
+#more_option:hover {
+   color: black;
+   border-radius: 10px;
+   cursor: pointer;
+}
+
+#reset_button {
+   width: 5.3vw;
+   height: 2.5vw;
+   font-size: 1.1vw;
+   padding: 5px 10px;
+   margin-left: 20px;
+   background: #f7f7f7;
+   color: #5e7380 !important;
+   cursor: pointer;
+   border: 0.5px #bbb solid;
+
+}
+
+.search_button {
+   width: 4vw;
+   height: 2.5vw;
+   font-size: 1.2vw;
+   text-align: center !important;
+   line-height: 1.5rem !important;
+   background-color: #222A35 !important;
+   color: white !important;
+}
+
+.search_button:hover {
+   color: white !important;
+   background-color: #44546A !important;
+}
+
+
+input:hover {
+   color: black;
+   background-color: #f7f7f7;
+}
+
+.button {
+   background-color: #222A35;
+   border-radius: 3.5vw;
+}
+
+.button:hover {
+   color: white;
+   background-color: #44546A;
+}
+
+.fancytable {
+   border: 1px solid #708090;
+   width: 100%;
+   border-collapse: collapse;
+}
+
+.fancytable td {
+   border: 1px solid #708090;
+   color: #555555;
+   text-align: center;
+   line-height: 28px;
+}
+
+.title {
+   position: fixed;
+   max-width: 100%;
+   height: 0%;
+   top: 0%;
+   text-align: center;
+   padding: 0%;
+}
+
+.two_column {
+   margin: 0 auto;
+   position: fixed;
+   float: left;
+   width: 25%;
+   height: 100%;
+   right: 0%;
+   top: 6%;
+   background: #D9D9D9;
+   /* opacity: 80%; */
+   padding: 2.5% 1% 1% 1%;
+}
+
+/* 设置一个居中的盒子 */
+/* .box {
+    margin: 40px auto;
+    width: 200px;
+    height: 200px;
+} */
+
+/* 设置一个盒子放收藏按钮 */
+.font {
+   float: right;
+   margin-right: 20px;
+   width: 86px;
+   height: 62px;
+   /* font-size: 40px; */
+   text-align: center;
+}
+
+/* 设置一个放字体图标及复选框的盒子 */
+.heart-box {
+   position: relative;
+   height: 10%;
+
+}
+
+/* 设置字体图标大小 */
+/* i, */
+.iconfont {
+   color: red;
+}
+
+/* 定位复选框位置，和其他两个心重叠，并设置透明度为0，提高层级 */
+.heart-input {
+   position: absolute;
+   left: -17px;
+   top: -3px;
+   width: 100%;
+   height: 100%;
+   border-radius: 50%;
+   opacity: 0;
+   z-index: -2;
+
+}
+
+/* 选中复选框的兄弟元素，当复选框状态为复选时，使它隐藏 */
+input:checked+.icon {
+   display: none;
+}
+
+/* 定位字体图标 使它和复选框与另一个字体图标重叠 */
+.icon {
+   position: absolute;
+   left: 0;
+   top: 0;
+}
+
+@font-face {
+   font-family: 'cwTeXYen';
+   font-style: normal;
+   /* src: local("GenJyuuGothic-Bold.ttf"); */
+   /* src: url("/fonts/GenJyuuGothic-Bold.ttf"); */
+   src: url(https://justfont.com/huninn/);
+   src: url(//fonts.gstatic.com/ea/cwtexyen/v3/cwTeXYen-zhonly.eot);
+   src: url(//fonts.gstatic.com/ea/cwtexyen/v3/cwTeXYen-zhonly.eot?#iefix) format('embedded-opentype'),
+      url(//fonts.gstatic.com/ea/cwtexyen/v3/cwTeXYen-zhonly.woff2) format('woff2'),
+      url(//fonts.gstatic.com/ea/cwtexyen/v3/cwTeXYen-zhonly.woff) format('woff'),
+      url(//fonts.gstatic.com/ea/cwtexyen/v3/cwTeXYen-zhonly.ttf) format('truetype');
+}
+
+
+#link {
+   color: rgb(255, 255, 255, .5) !important;
+}
+
+#link:hover {
+   text-decoration: none !important;
+   color: rgb(255, 255, 255) !important;
+}
+
+#icon {
+   width: 20px;
+   height: 20px;
+   justify-content: center;
+   vertical-align: middle;
+   align-items: center;
+   fill: #fff;
+}
+
+
+.user_info_img_btn {
+   padding: 0 !important;
+   height: 4vw;
+   /* background: #fff; */
+   border-radius: 50%;
+   /* border-color: #fff; */
+   border: solid 0.3px rgb(255, 255, 255, .35);
+   outline: solid 3.5px transparent;
+}
+
+.user_info_img_btn:hover {
+   /* border-color: rgb(255, 255, 255, .2); */
+   outline-color: rgb(255, 255, 255, .1);
+}
+
+/* .user_info_img_btn:active{
+   outline-color: rgb(255, 255, 255, .3);
+}
+.user_info_img_btn:focus{
+   outline-color: rgb(255, 255, 255, .3);
+} */
+.shake:hover {
+   /* Start the shake animation and make the animation last for 0.5 seconds */
+   animation: shake 0.5s;
+
+   /* When the animation is finished, start again */
+   animation-iteration-count: infinite;
+
+}
+
+.shake_background:hover {
+   background: rgb(175, 12, 12);
+   color: white !important;
+}
+
+@keyframes shake {
+   0% {
+      transform: translate(1px, 1px) rotate(0deg);
+   }
+
+   10% {
+      transform: translate(-1px, -1px) rotate(0deg);
+   }
+
+   20% {
+      transform: translate(-3px, 0px) rotate(0.5deg);
+   }
+
+   30% {
+      transform: translate(-1px, 2px) rotate(0deg);
+   }
+
+   40% {
+      transform: translate(1px, -1px) rotate(0.5deg);
+   }
+
+   50% {
+      transform: translate(-1px, 2px) rotate(0deg);
+   }
+
+   60% {
+      transform: translate(-3px, 1px) rotate(0deg);
+   }
+
+   70% {
+      transform: translate(1px, 1px) rotate(0deg);
+   }
+
+   80% {
+      transform: translate(-1px, -1px) rotate(0.5deg);
+   }
+
+   90% {
+      transform: translate(1px, 2px) rotate(0deg);
+   }
+
+   100% {
+      transform: translate(1px, -2px) rotate(0deg);
+   }
+}
+
+.contentScrollBar::-webkit-scrollbar {
+
+   /*滾動條整體樣式*/
+   width: 10px;
+   /*高寬分別對應橫豎滾動條的尺寸*/
+   height: 1px;
+}
+
+.contentScrollBar::-webkit-scrollbar-thumb {
+   /*滾動條裡面小方塊*/
+   border-radius: 15px;
+   background-color: #7F7F7F;
+}
+
+.contentScrollBar::-webkit-scrollbar-track {
+   border-radius: 15px;
+
+   /*滾動條裡面軌道*/
+   -webkit-box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.2);
+   /*border-radius: 10px;*/
+   background: #EDEDED;
+}

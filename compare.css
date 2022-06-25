@@ -1,0 +1,74 @@
+
+body {
+    font-size: 100%;
+}
+
+.outside_wrapper {
+    position: relative;
+    width: 30vw;
+    height: 30vw;
+    border-radius: 20px;
+    margin: 20px;
+}
+
+.inside_wrapper {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 25vw;
+    height: 25vw;
+    border-radius: 20px;
+    margin: 2.5vw;
+    top: 2.5vw;
+    /* text-align: center; */
+}
+
+.list_name_bg_wrapper {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30vw;
+    height: 8vw;
+    border-radius: 0px 0px 20px 20px;
+    bottom: 5vw;
+}
+
+.list_name_wrapper {
+    position: relative;
+    display: flex;
+    color: white;
+    font-size: 2em;
+    font-weight: 900;
+}
+
+.img_location {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    position: fixed;
+    max-width: 100%;
+    height: 0%;
+    top: 0%;
+    text-align: center;
+    padding: 0%;
+}
+
+@font-face {
+    font-family: 'cwTeXYen';
+    font-style: normal;
+    /* src: local("GenJyuuGothic-Bold.ttf"); */
+    /* src: url("/fonts/GenJyuuGothic-Bold.ttf"); */
+    src: url(https://justfont.com/huninn/);
+    src: url(//fonts.gstatic.com/ea/cwtexyen/v3/cwTeXYen-zhonly.eot);
+    src: url(//fonts.gstatic.com/ea/cwtexyen/v3/cwTeXYen-zhonly.eot?#iefix) format('embedded-opentype'),
+        url(//fonts.gstatic.com/ea/cwtexyen/v3/cwTeXYen-zhonly.woff2) format('woff2'),
+        url(//fonts.gstatic.com/ea/cwtexyen/v3/cwTeXYen-zhonly.woff) format('woff'),
+        url(//fonts.gstatic.com/ea/cwtexyen/v3/cwTeXYen-zhonly.ttf) format('truetype');
+}
+

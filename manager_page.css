@@ -1,0 +1,51 @@
+body {
+    background-color: white;
+}
+
+.wrapper {
+    overflow: hidden;
+    height: auto;
+    padding: 5.5% 28% 0% 3%;
+}
+
+
+.arti_edit_wrapper {
+    margin: 0 auto;
+    position: fixed;
+    float: left;
+    width: 900px;
+    right: 0%;
+    top: 6%;
+    background: #fcfcfc;
+    /* opacity: 80%; */
+    padding: 2.5% 1% 1% 1%;
+}
+
+.canvas {
+    margin-top: 20px;
+    margin-left: 60px;
+    width: 750px;
+}
+
+#coverBtn {
+    position: absolute;
+    left: 765px;
+    width: 50px;
+    font-size: 0.1px;
+}
+
+#coverBtn:hover {
+    opacity: 0.6;
+}
+
+#passBtn {
+    position: absolute;
+    left: 715px;
+    width: 50px;
+    font-size: 0.1px;
+
+}
+
+#passBtn:hover {
+    opacity: 0.6;
+}

@@ -1,0 +1,13 @@
+.submit button {
+    background-color: #44546A;
+    border-color: #44546A;
+}
+
+.submit button:hover {
+    background-color: #5e7380;
+    border-color: #5e7380;
+}
+
+.choose input {
+    font-size: large;
+}

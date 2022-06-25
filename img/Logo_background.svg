@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 520 520" style="enable-background:new 0 0 520 520;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{fill:#FFFFFF;stroke:#000000;stroke-width:6;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#000000;stroke-width:6;stroke-miterlimit:10;}
+	.st3{display:inline;fill:#FFFFFF;stroke:#000000;stroke-width:6;stroke-miterlimit:10;}
+	.st4{display:inline;fill:none;stroke:#000000;stroke-width:6;stroke-miterlimit:10;}
+	.st5{display:inline;fill:none;stroke:#000000;stroke-width:10;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st6{display:inline;fill:none;stroke:#C1272D;stroke-width:10;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st7{display:inline;fill:none;stroke:#000000;stroke-width:10;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st8{display:inline;fill:none;stroke:#FFFFFF;stroke-width:10;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st9{display:inline;fill:none;stroke:#000000;stroke-width:20;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st10{display:inline;fill:none;stroke:#C1272D;stroke-width:20;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st11{display:inline;fill:none;stroke:#000000;stroke-width:20;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st12{display:inline;fill:none;stroke:#FFFFFF;stroke-width:20;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st13{display:inline;fill:#44546A;}
+	.st14{display:inline;fill:none;stroke:#FFFFFF;stroke-width:20;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st15{display:inline;fill:none;stroke:#DF8200;stroke-width:20;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st16{display:inline;fill:none;stroke:#DF8E00;stroke-width:20;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st17{display:inline;fill:none;stroke:#44546A;stroke-width:20;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st18{display:inline;fill:#FFFFFF;}
+	.st19{display:inline;fill:none;stroke:#DFA20A;stroke-width:20;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st20{display:inline;fill:none;stroke:#DFA20A;stroke-width:20;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st21{display:inline;}
+	.st22{fill:none;stroke:#DFA20A;stroke-width:25;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st23{fill:none;stroke:#DF8200;stroke-width:25;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st24{fill:none;stroke:#DFA20A;stroke-width:25;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st25{fill:none;stroke:#44546A;stroke-width:20;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st26{display:inline;fill:none;stroke:#DFA20A;stroke-width:25;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st27{display:inline;fill:none;stroke:#DF8200;stroke-width:25;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st28{display:inline;fill:none;stroke:#DFA20A;stroke-width:25;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st29{display:inline;fill:#DFA20A;}
+	.st30{display:inline;fill:#DF8200;}
+	.st31{fill:#44546A;}
+	.st32{fill:#FFFFFF;}
+	.st33{fill:none;stroke:#DFA20A;stroke-width:20;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st34{fill:none;stroke:#DF8200;stroke-width:20;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st35{fill:none;stroke:#DFA20A;stroke-width:20;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st36{fill:none;stroke:#DFA20A;stroke-width:35;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st37{fill:none;stroke:#DF8200;stroke-width:35;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st38{fill:none;stroke:#DFA20A;stroke-width:35;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st39{fill:none;stroke:#44546A;stroke-width:36;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st40{display:inline;fill:none;stroke:#000000;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st41{display:inline;fill:none;stroke:#C1272D;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st42{opacity:0.1;enable-background:new    ;}
+	.st43{opacity:0.1;fill:#FFFFFF;enable-background:new    ;}
+	.st44{fill:none;stroke:#DFA20A;stroke-width:45;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st45{fill:none;stroke:#DF8200;stroke-width:45;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st46{fill:#DFA20A;}
+	.st47{fill:#DF8200;}
+	.st48{fill:none;stroke:#DFA20A;stroke-width:66;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st49{fill:none;stroke:#DF8200;stroke-width:66;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st50{display:inline;fill:#113153;}
+	.st51{display:inline;fill:none;stroke:#DFA20A;stroke-width:45;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st52{display:inline;fill:none;stroke:#FFFFFF;stroke-width:45;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st53{display:inline;fill:none;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
+	.st54{display:none;fill:#113153;}
+	.st55{display:none;opacity:0.1;fill:#FFFFFF;enable-background:new    ;}
+	.st56{display:none;fill:#DF8200;}
+	.st57{fill:#E6E6E6;}
+	.st58{display:none;fill:none;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
+	.st59{display:inline;fill:none;stroke:#44546A;stroke-width:45;stroke-linejoin:bevel;stroke-miterlimit:10;}
+	.st60{display:inline;fill:none;stroke:#113153;stroke-width:45;stroke-linejoin:bevel;stroke-miterlimit:10;}
+</style>
+<g id="圖層_1" class="st0">
+	<circle class="st1" cx="260" cy="260" r="185.67"/>
+	<line class="st2" x1="175.4" y1="255.55" x2="349.26" y2="362.28"/>
+	<line class="st2" x1="175.4" y1="114.21" x2="145.02" y2="114.21"/>
+	<path class="st3" d="M289.35,135.97h-86.93v141.34h86.93c41.98,0,76.02-31.64,76.02-70.67S331.33,135.97,289.35,135.97z"/>
+	<path class="st3" d="M155.44,188.12c-0.3-1.45-5.01-26.03,12.26-41.87c13.1-12.02,29.7-10.14,34.72-10.21"/>
+	<line class="st4" x1="202.42" y1="277.31" x2="202.42" y2="384.03"/>
+	<path class="st4" d="M202.42,277.31c0,51,162.94,55.72,162.94,106.72"/>
+</g>
+<g id="圖層_2" class="st0">
+	<path class="st3" d="M286.72,135.97h-86.93v141.34h86.93c41.98,0,76.02-31.64,76.02-70.67S328.7,135.97,286.72,135.97z"/>
+	<line class="st4" x1="199.79" y1="277.31" x2="199.79" y2="384.03"/>
+	<line class="st4" x1="199.79" y1="277.31" x2="362.73" y2="384.03"/>
+	<line class="st4" x1="199.79" y1="135.97" x2="157.27" y2="135.97"/>
+</g>
+<g id="圖層_3" class="st0">
+	<ellipse class="st3" cx="289.35" cy="206.64" rx="76.02" ry="70.67"/>
+	<rect x="202.42" y="135.97" class="st3" width="86.93" height="141.34"/>
+	<path class="st3" d="M155.44,188.12c-0.3-1.45-5.01-26.03,12.26-41.87c13.1-12.02,29.7-10.14,34.72-10.21"/>
+	<line class="st4" x1="202.42" y1="277.31" x2="202.42" y2="384.03"/>
+	<path class="st4" d="M202.42,277.31c0,51,162.94,55.72,162.94,106.72"/>
+</g>
+<g id="圖層_4" class="st0">
+	<path class="st3" d="M286.72,135.97h-86.93v141.34h86.93c41.98,0,76.02-31.64,76.02-70.67S328.7,135.97,286.72,135.97z"/>
+	<line class="st4" x1="199.79" y1="277.31" x2="199.79" y2="384.03"/>
+	<line class="st4" x1="199.79" y1="277.31" x2="362.73" y2="384.03"/>
+	<line class="st4" x1="362.73" y1="135.97" x2="157.27" y2="135.97"/>
+</g>
+<g id="圖層_5" class="st0">
+	<path class="st3" d="M290.39,135.97h-86.93v141.34h86.93c41.98,0,76.02-31.64,76.02-70.67S332.37,135.97,290.39,135.97z"/>
+	<line class="st4" x1="203.46" y1="277.31" x2="203.46" y2="384.03"/>
+	<path class="st4" d="M203.46,277.31c0,48.7,162.94,58.03,162.94,106.72"/>
+	<line class="st4" x1="273.96" y1="277.31" x2="153.6" y2="277.31"/>
+</g>
+<g id="圖層_6" class="st0">
+	<path class="st5" d="M266.22,140.95H179.3v141.34h86.93c41.98,0,76.02-31.64,76.02-70.67S308.21,140.95,266.22,140.95z"/>
+	<line class="st6" x1="179.3" y1="140.95" x2="179.3" y2="389.02"/>
+	<line class="st7" x1="178.5" y1="138.24" x2="342.24" y2="389.02"/>
+	<path class="st6" d="M179.3,282.29c0,48.7,137.21,67.54,162.94,106.72"/>
+	<line class="st8" x1="177.76" y1="130.98" x2="292.65" y2="130.98"/>
+</g>
+<g id="圖層_9" class="st0">
+	<path class="st9" d="M264.78,145.88h-86.93v141.34h86.93c41.98,0,76.02-31.64,76.02-70.67S306.76,145.88,264.78,145.88z"/>
+	<line class="st10" x1="177.85" y1="145.88" x2="177.85" y2="393.94"/>
+	<line class="st11" x1="176.31" y1="140.38" x2="340.75" y2="391"/>
+	<line class="st10" x1="177.85" y1="287.22" x2="343.69" y2="393.94"/>
+	<line class="st12" x1="177.34" y1="126.06" x2="292.23" y2="126.06"/>
+</g>
+<g id="圖層_11" class="st0">
+	<rect x="-12.78" y="-12.78" class="st13" width="545.55" height="545.55"/>
+	<path class="st14" d="M264.78,145.88h-86.93v141.34h86.93c41.98,0,76.02-31.64,76.02-70.67S306.76,145.88,264.78,145.88z"/>
+	<line class="st15" x1="177.85" y1="145.88" x2="177.85" y2="393.94"/>
+	<line class="st12" x1="176.31" y1="140.38" x2="344.35" y2="399.42"/>
+	<line class="st16" x1="176.34" y1="285.95" x2="347.17" y2="402.28"/>
+	<line class="st17" x1="177.34" y1="126.06" x2="292.23" y2="126.06"/>
+	<line class="st17" x1="167.88" y1="403.99" x2="366.36" y2="403.99"/>
+</g>
+<g id="圖層_12" class="st0">
+	<rect x="-12.78" y="-12.78" class="st13" width="545.55" height="545.55"/>
+	<rect x="86.02" y="86.02" class="st18" width="347.96" height="347.96"/>
+	<path class="st19" d="M264.78,145.88h-86.93v141.34h86.93c41.98,0,76.02-31.64,76.02-70.67S306.76,145.88,264.78,145.88z"/>
+	<line class="st15" x1="177.85" y1="145.88" x2="177.85" y2="393.94"/>
+	<line class="st20" x1="176.31" y1="140.38" x2="344.35" y2="399.42"/>
+	<line class="st15" x1="180.37" y1="284.47" x2="349.14" y2="403.76"/>
+	<line class="st17" x1="177.34" y1="126.06" x2="292.23" y2="126.06"/>
+	<line class="st17" x1="167.88" y1="403.99" x2="366.36" y2="403.99"/>
+</g>
+<g id="圖層_13" class="st0">
+	<rect x="-12.78" y="-12.78" class="st13" width="545.55" height="545.55"/>
+	<g class="st21">
+		<path class="st22" d="M264.78,145.88h-86.93v141.34h86.93c41.98,0,76.02-31.64,76.02-70.67S306.76,145.88,264.78,145.88z"/>
+		<line class="st23" x1="177.85" y1="145.88" x2="177.85" y2="393.94"/>
+		<line class="st24" x1="175.91" y1="139.15" x2="345.85" y2="400.36"/>
+		<line class="st23" x1="180.37" y1="284.47" x2="349.14" y2="403.76"/>
+		<line class="st25" x1="176.43" y1="123.39" x2="300" y2="123.39"/>
+		<line class="st25" x1="151.38" y1="403.76" x2="366.36" y2="403.76"/>
+	</g>
+</g>
+<g id="圖層_15" class="st0">
+	<path class="st26" d="M264.78,145.88h-86.93v141.34h86.93c41.98,0,76.02-31.64,76.02-70.67S306.76,145.88,264.78,145.88z"/>
+	<line class="st27" x1="177.85" y1="145.88" x2="177.85" y2="393.94"/>
+	<line class="st28" x1="175.91" y1="139.15" x2="345.85" y2="400.36"/>
+	<line class="st27" x1="177.85" y1="281.2" x2="349.14" y2="403.76"/>
+	<line class="st17" x1="176.69" y1="123.39" x2="300.26" y2="123.39"/>
+	<line class="st25" x1="151.38" y1="403.76" x2="366.36" y2="403.76"/>
+	
+		<rect x="249" y="113.67" transform="matrix(0.8377 -0.5462 0.5462 0.8377 -105.2366 186.717)" class="st29" width="25" height="313.47"/>
+	
+		<rect x="249.87" y="232.7" transform="matrix(0.5809 -0.814 0.814 0.5809 -168.2592 356.8398)" class="st30" width="25" height="218.21"/>
+	<rect x="126.21" y="99.7" class="st21" width="203.91" height="33.7"/>
+	<rect x="159.54" y="393.94" class="st21" width="233.88" height="33.7"/>
+</g>
+<g id="圖層_16" class="st0">
+	<path class="st26" d="M264.96,142.2h-86.93v141.34h86.93c41.98,0,76.02-31.64,76.02-70.67S306.94,142.2,264.96,142.2z"/>
+	<line class="st27" x1="178.03" y1="142.2" x2="178.03" y2="390.27"/>
+	<line class="st24" x1="176.09" y1="135.47" x2="346.03" y2="396.69"/>
+	<line class="st23" x1="178.03" y1="277.53" x2="349.32" y2="400.09"/>
+	<line class="st25" x1="176.87" y1="119.72" x2="300.44" y2="119.72"/>
+	
+		<rect x="249.18" y="110" transform="matrix(0.8377 -0.5462 0.5462 0.8377 -103.202 186.2198)" class="st29" width="25" height="313.47"/>
+	
+		<rect x="250.05" y="229.03" transform="matrix(0.5809 -0.814 0.814 0.5809 -165.1948 355.4481)" class="st30" width="25" height="218.21"/>
+	<rect x="126.39" y="96.03" class="st21" width="203.91" height="33.7"/>
+	<rect x="159.72" y="390.27" class="st21" width="233.88" height="33.7"/>
+</g>
+<g id="圖層_14" class="st0">
+	<g class="st21">
+		<rect x="-12.78" y="-12.78" class="st31" width="545.55" height="545.55"/>
+		<line class="st25" x1="167.88" y1="403.99" x2="366.36" y2="403.99"/>
+		<line class="st25" x1="177.34" y1="126.06" x2="292.23" y2="126.06"/>
+		<rect x="86.02" y="86.02" class="st32" width="347.96" height="347.96"/>
+		<path class="st33" d="M264.78,145.88h-86.93v141.34h86.93c41.98,0,76.02-31.64,76.02-70.67S306.76,145.88,264.78,145.88z"/>
+		<line class="st34" x1="177.85" y1="145.88" x2="177.85" y2="393.94"/>
+		<line class="st35" x1="176.31" y1="140.38" x2="344.35" y2="399.42"/>
+		<line class="st34" x1="180.37" y1="284.47" x2="349.14" y2="403.76"/>
+		<rect x="-12.78" y="-12.78" class="st31" width="545.55" height="545.55"/>
+		<path class="st36" d="M264.78,145.88h-86.93v141.34h86.93c41.98,0,76.02-31.64,76.02-70.67S306.76,145.88,264.78,145.88z"/>
+		<line class="st37" x1="177.85" y1="145.88" x2="177.85" y2="393.94"/>
+		<line class="st38" x1="175.11" y1="136.37" x2="346.25" y2="406.55"/>
+		<line class="st37" x1="180.67" y1="280.63" x2="354.23" y2="412.38"/>
+		<line class="st25" x1="176.35" y1="118.45" x2="299.91" y2="118.45"/>
+		<line class="st39" x1="150.36" y1="412.38" x2="365.34" y2="412.38"/>
+	</g>
+</g>
+<g id="圖層_10" class="st0">
+	<path class="st9" d="M266.23,145.88H179.3v141.34h86.93c41.98,0,76.02-31.64,76.02-70.67S308.21,145.88,266.23,145.88z"/>
+	<line class="st10" x1="179.3" y1="145.88" x2="179.3" y2="393.94"/>
+	<line class="st11" x1="177.75" y1="140.38" x2="342.25" y2="393.94"/>
+	<path class="st10" d="M179.3,287.22c0,49.3,133.25,63.02,162.94,106.72"/>
+	<line class="st12" x1="178.79" y1="126.06" x2="293.68" y2="126.06"/>
+</g>
+<g id="圖層_7" class="st0">
+	<path class="st40" d="M265.46,138.35h-86.93v141.34h86.93c41.98,0,76.02-31.64,76.02-70.67S307.44,138.35,265.46,138.35z"/>
+	<line class="st40" x1="178.53" y1="138.35" x2="341.47" y2="386.41"/>
+	<line class="st41" x1="178.53" y1="133.59" x2="178.53" y2="386.41"/>
+	<line class="st41" x1="178.53" y1="275.22" x2="341.47" y2="386.41"/>
+</g>
+<g id="圖層_8" class="st0">
+	<path class="st40" d="M265.46,138.35h-86.93v141.34h86.93c41.98,0,76.02-31.64,76.02-70.67S307.44,138.35,265.46,138.35z"/>
+	<line class="st40" x1="178.53" y1="138.35" x2="341.47" y2="386.41"/>
+	<line class="st41" x1="178.53" y1="133.59" x2="178.53" y2="386.41"/>
+	<path class="st41" d="M178.53,279.69c0,48.7,135.74,65.31,162.94,106.72"/>
+</g>
+<g id="圖層_17" class="st0">
+	<rect class="st13" width="520" height="520"/>
+	<path class="st42" d="M381.57,431.58H138.43c-27.61,0-50-22.39-50-50V138.44c0-27.61,22.39-50,50-50h243.15c27.61,0,50,22.39,50,50
+		v243.15C431.57,409.2,409.19,431.58,381.57,431.58z"/>
+	<g class="st21">
+		<path class="st43" d="M409,519H111C50.25,519,1,469.75,1,409V111C1,50.25,50.25,1,111,1h298c60.75,0,110,49.25,110,110v298
+			C519,469.75,469.75,519,409,519z"/>
+		<path class="st44" d="M274.16,113.67H162.97v180.78h111.19c53.7,0,97.23-40.47,97.23-90.39S327.85,113.67,274.16,113.67z"/>
+		<line class="st45" x1="162.97" y1="113.67" x2="162.97" y2="430.96"/>
+		<polygon class="st46" points="394.29,430.96 342.04,430.96 140.6,113.67 193.12,113.67 		"/>
+		<polygon class="st47" points="394.29,430.96 319.1,430.96 160.99,309.69 160.99,253.73 		"/>
+	</g>
+</g>
+<g id="圖層_18" class="st0">
+	<g class="st21">
+		<path class="st48" d="M269.9,43.12H105.98v266.51H269.9c79.17,0,143.34-59.66,143.34-133.25S349.05,43.12,269.9,43.12z"/>
+		<line class="st49" x1="105.98" y1="43.12" x2="105.98" y2="510.88"/>
+		<polygon class="st46" points="447,510.88 369.97,510.88 73,43.12 150.43,43.12 		"/>
+		<polygon class="st47" points="447,510.88 336.15,510.88 103.06,332.1 103.06,249.6 		"/>
+	</g>
+</g>
+<g id="圖層_19" class="st0">
+	<rect class="st13" width="520" height="520"/>
+	<circle class="st18" cx="260" cy="260" r="259.5"/>
+	<g class="st21">
+		<path class="st44" d="M276.81,113.06H166.3v179.67h110.51c53.37,0,96.63-40.22,96.63-89.83S330.17,113.06,276.81,113.06z"/>
+		<line class="st45" x1="166.3" y1="113.06" x2="166.3" y2="428.39"/>
+		<polygon class="st46" points="396.2,428.39 344.27,428.39 144.07,113.06 196.26,113.06 		"/>
+		<polygon class="st47" points="396.2,428.39 321.47,428.39 164.33,307.87 164.33,252.25 		"/>
+	</g>
+</g>
+<g id="圖層_21" class="st0">
+	<rect class="st50" width="520" height="520"/>
+	<circle class="st30" cx="260" cy="260" r="259.5"/>
+	<path class="st51" d="M276.81,113.06H166.3v179.67h110.51c53.37,0,96.63-40.22,96.63-89.83S330.17,113.06,276.81,113.06z"/>
+	<line class="st52" x1="166.3" y1="113.06" x2="166.3" y2="428.39"/>
+	<polygon class="st29" points="396.2,428.39 344.27,428.39 144.07,113.06 196.26,113.06 	"/>
+	<polygon class="st18" points="396.2,428.39 321.47,428.39 164.33,307.87 164.33,252.25 	"/>
+	<circle class="st53" cx="260" cy="260" r="258.5"/>
+</g>
+<g id="圖層_23">
+	<rect x="0" y="0" class="st54" width="520" height="520"/>
+	<path class="st55" d="M411.73,519h-298c-60.75,0-110-49.25-110-110V111c0-60.75,49.25-110,110-110h298c60.75,0,110,49.25,110,110
+		v298C521.73,469.75,472.48,519,411.73,519z"/>
+	<ellipse class="st46" cx="260" cy="260" rx="259" ry="259.5"/>
+	<path class="st47" d="M143.07,114.06L98.04,57.51C38.88,105.07,1,178.1,1,260c0,143.32,115.96,259.5,259,259.5
+		c61.31,0,117.62-21.35,161.98-57.03l-26.79-33.08L143.07,114.06z"/>
+	<path class="st56" d="M519,260C519,116.68,403.04,0.5,260,0.5c-61.3,0-117.61,21.35-161.96,57.01l45.03,56.55L395.2,429.39
+		l26.79,33.08C481.13,414.91,519,341.89,519,260z"/>
+	<g>
+		<path class="st32" d="M276.81,315.75H166.3l-22.5-22.5V113.58l22.5-22.5h110.5c65.69,0,119.13,50.39,119.13,112.33
+			C395.94,265.36,342.5,315.75,276.81,315.75z M188.8,270.75h88c40.88,0,74.13-30.21,74.13-67.33c0-37.13-33.26-67.33-74.13-67.33
+			h-88V270.75z"/>
+		<rect x="143.8" y="113.58" class="st57" width="45" height="315.34"/>
+		<polygon class="st32" points="396.2,428.92 344.27,428.92 144.07,113.58 196.27,113.58 		"/>
+		<polygon class="st57" points="396.2,428.92 321.47,428.92 164.33,308.39 164.33,252.78 		"/>
+	</g>
+	<circle class="st58" cx="260" cy="260" r="258.5"/>
+</g>
+<g id="圖層_24" class="st0">
+	<path class="st43" d="M409,519H111C50.25,519,1,469.75,1,409V111C1,50.25,50.25,1,111,1h298c60.75,0,110,49.25,110,110v298
+		C519,469.75,469.75,519,409,519z"/>
+	<ellipse class="st46" cx="258.63" cy="260" rx="259" ry="259.5"/>
+	<path class="st47" d="M141.7,114.06L96.67,57.51C37.52,105.07-0.37,178.1-0.37,260c0,143.32,115.96,259.5,259,259.5
+		c61.31,0,117.62-21.35,161.98-57.03l-26.79-33.08L141.7,114.06z"/>
+	<g class="st21">
+		<path class="st46" d="M276.81,315.75H166.3l-22.5-22.5V113.58l22.5-22.5h110.5c65.69,0,119.13,50.39,119.13,112.33
+			C395.94,265.36,342.5,315.75,276.81,315.75z M188.8,270.75h88c40.88,0,74.13-30.21,74.13-67.33c0-37.13-33.26-67.33-74.13-67.33
+			h-88V270.75z"/>
+		<rect x="143.8" y="113.58" class="st47" width="45" height="315.34"/>
+		<polygon class="st46" points="396.2,428.92 344.27,428.92 144.07,113.58 196.27,113.58 		"/>
+		<polygon class="st47" points="396.2,428.92 321.47,428.92 164.33,308.39 164.33,252.78 		"/>
+	</g>
+</g>
+<g id="圖層_22" class="st0">
+	<rect x="0" y="0" class="st50" width="520" height="520"/>
+	<circle class="st29" cx="260" cy="260" r="259.5"/>
+	<path class="st59" d="M276.81,113.06H166.3v179.67h110.51c53.37,0,96.63-40.22,96.63-89.83S330.17,113.06,276.81,113.06z"/>
+	<line class="st60" x1="166.3" y1="113.06" x2="166.3" y2="428.39"/>
+	<polygon class="st13" points="396.2,428.39 344.27,428.39 144.07,113.06 196.26,113.06 	"/>
+	<polygon class="st50" points="396.2,428.39 321.47,428.39 164.33,307.87 164.33,252.25 	"/>
+	<circle class="st53" cx="260" cy="260" r="258.5"/>
+</g>
+</svg>
